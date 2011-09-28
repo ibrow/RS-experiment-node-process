@@ -1,3 +1,5 @@
 My experiments with the parent/child processes in NodeJS. This is the code used in my blog post.
-http://www.robsearles.com
-(post is not published yet)
+http://www.robsearles.com/2011/09/28/nodejs-experiments-with-processes/
+
+Feel free to use/hack/play with/do what you want. But don't forget, this 
+is just me hacking about too, so don't blame me if it breaks anything.
